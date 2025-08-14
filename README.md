@@ -38,6 +38,19 @@ This project represents my dedication to **structured thinking**, **clean code**
 
 ---
 
+## ⚠️ Important Setup Instruction
+
+Before running any queries, please follow these steps to ensure everything works smoothly:
+
+1️⃣ **Create a MySQL connection/server** in MySQL Workbench.  
+2️⃣ **Import the main dataset** → `IMDB+dataset+import.sql` into your database (schema name: `imdb`).  
+3️⃣ **Run the solved project file** → `IMDB_SQL_Solved_Project_SahilVerma_All_Segments.sql` to execute **all 50 queries** in sequence.  
+
+💡 This setup will give you **the complete working environment** with both the dataset and solutions for every segment — ready for learning, testing, and exploring. 🚀
+
+---
+
+
 ## 🎯 Problem Statement
 
 RSVP Movies, after the success of their movie *"The Sky Is Pink"*, wanted to **produce a new international movie**.  
