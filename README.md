@@ -82,8 +82,8 @@ The database contains **6 key tables**:
 
 ## 🗺 Project Flowchart (ERD)
 
-**ERD Placeholder** — *(Add your image here)*  
-`![ERD Flowchart](flowchart.png)`
+**ERD Placeholder** — 
+<img width="1867" height="665" alt="Screenshot 2025-08-14 123141" src="https://github.com/user-attachments/assets/d78b4ba0-2c40-4867-bb49-2dc9ff6fcbad" />
 
 **Legend:**
 - 🎬 **movie** — Central table containing main attributes
